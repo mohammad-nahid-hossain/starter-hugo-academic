@@ -59,6 +59,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Mohammad_Nahid_Hossain
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-7423-2096
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
