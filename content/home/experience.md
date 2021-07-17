@@ -22,28 +22,51 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assistant
+    company: Kwangwoon University
+    company_url: 'https://www.kw.ac.kr/en/'
+    company_logo: 
+    location: Seoul 01897, Korea
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
+        Smart H&B Laboratory 
+
+        Responsibilities include:
+
+        Working under some supporting organizations of research grant projects based on blockchain, big data, AI, machine learning.
+        
+  - title: Lecturer
+    company: Institute of Science Trade & Technology (ISTT)
+    company_url: 'https://istt.edu.bd/'
+    company_logo: 
+    location: Dhaka, Bangladesh
+    date_start: '2018-01-01'
+    date_end: '2019-08-31'
+    description: |2-
+        Department of Computer Science & Engineering
+        
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Examiner, National University
+        * Faculty Member, ISTT ACM Student Chapter
+        * Mentor, HEAP Progamming Club, ISTT
+
+  - title: Lab Assistant
+    company: American International University-Bangladesh (AIUB)
+    company_url: 'https://www.aiub.edu/'
+    company_logo: 
+    location: Dhaka, Bangladesh
+    date_start: '2016-09-01'
+    date_end: '2016-12-31'
+    description: |2-
+        Department of Computer Science & Engineering
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        Responsibilities include:
+
+        * Help students to build up problem solving skills
+        * Making lab manuals
+        * Taking lab courses and exams on C++(Object Oriented)
 
 design:
   columns: '2'

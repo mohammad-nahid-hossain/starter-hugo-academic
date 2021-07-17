@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mohammad Nahid Hossain
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Kwangwoon University
+  url: https://www.kw.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning, Deep Learning and Data Science.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Deep Learning
+- Data Science
+- IoT
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: M.Sc in Electronic Engineering and Information
+    institution: Kwangwoon University, Seoul 01897, Korea
+    year: 2021
+  - course: B.Sc in Computer Science and Engineering
+    institution: American International University-Bangladesh (AIUB), Dhaka, Bangladesh
+    year: 2017
+  - course: Higher Secondary Certificate
+    institution: Milestone College, Dhaka, Bangladesh
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Secondary School Certificate
+    institution: Badda Alatunnessa High School, Dhaka, Bangladesh
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +47,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://linkedin.com/in/nah3d/
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mohammad-nahid-hossain
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Mohammad_Nahid_Hossain
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +74,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mohammad Nahid Hossain is Research Assistant at Kwangwoon University, Seoul, Korea. He was Lecturer at Institute of Science Trade & Technology (ISTT) in Computer Science and Engineering department. His research interests include Data Science, Machine Learning and Deep Learning, IoT.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mohammad Nahid Hossain was born in Munshiganj, Bangladesh in 1995. He passed S.S.C from Badda Alatunnessa Higher Secondary School, Dhaka in 2010 H.S.C from Milestone College, Dhaka in 2012. Nahid received the B.Sc (Engineering) degree in Computer Science and Engineering from American International University-Bangladesh (AIUB), Bangladesh in 2017. He completed his M.Sc degree in Electronic Engineering and Information at Kwangwoon University, Seoul, Korea in 2021.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
