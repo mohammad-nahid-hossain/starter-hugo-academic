@@ -47,12 +47,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=iZclxXMAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/nah3d/
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mohammad-nahid-hossain
@@ -82,4 +82,4 @@ Mohammad Nahid Hossain is Research Assistant at Kwangwoon University, Seoul, Kor
 Mohammad Nahid Hossain was born in Munshiganj, Bangladesh in 1995. He passed S.S.C from Badda Alatunnessa Higher Secondary School, Dhaka in 2010 H.S.C from Milestone College, Dhaka in 2012. Nahid received the B.Sc (Engineering) degree in Computer Science and Engineering from American International University-Bangladesh (AIUB), Bangladesh in 2017. He completed his M.Sc degree in Electronic Engineering and Information at Kwangwoon University, Seoul, Korea in 2021.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
